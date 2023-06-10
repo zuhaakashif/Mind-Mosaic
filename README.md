@@ -16,6 +16,8 @@ In today's fast-paced academic environment, students often struggle to stay orga
 To ensure data privacy and provide personalized experiences, MindMosaic incorporates a secure login and sign-up system. Students can create their accounts with unique credentials, enabling them to save their progress. We have used Firebase for this purpose.
 
 ![IMG1](https://github.com/zuhaakashif/Mind-Mosaic/assets/100795162/d68a1d18-04b8-4736-87a9-e9e49b6c1f37)
+
+
 ![IMG2](https://github.com/zuhaakashif/Mind-Mosaic/assets/100795162/d0a36db8-66c9-4f3e-a21c-9208268023eb)
 
 ### Flashcards
@@ -29,7 +31,8 @@ The flashcard feature helps you prepare for future interviews. It comes with pre
 
 MindMosaic offers a comprehensive to-do list feature to help students prioritize their tasks and manage their academic responsibilities effectively. Users can create tasks, delete them, and also keep track of how many tasks they have completed.
 
-![IMG8](https://github.com/zuhaakashif/Mind-Mosaic/assets/100795162/88151409-f068-4bd9-85a0-68e25419fb99)
+![IMG9](https://github.com/zuhaakashif/Mind-Mosaic/assets/100795162/cd5d5dd0-6e74-4738-9f39-bdefd88c6927)
+
 
 
 ### Note-Taking
