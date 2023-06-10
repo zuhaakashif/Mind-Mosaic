@@ -31,7 +31,8 @@ The flashcard feature helps you prepare for future interviews. It comes with pre
 
 MindMosaic offers a comprehensive to-do list feature to help students prioritize their tasks and manage their academic responsibilities effectively. Users can create tasks, delete them, and also keep track of how many tasks they have completed.
 
-![IMG9](https://github.com/zuhaakashif/Mind-Mosaic/assets/100795162/cd5d5dd0-6e74-4738-9f39-bdefd88c6927)
+
+![IMG9](https://github.com/zuhaakashif/Mind-Mosaic/assets/100795162/048fd343-6c87-4f22-85a6-91ed45c4ffff)
 
 
 
