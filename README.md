@@ -15,16 +15,18 @@ In today's fast-paced academic environment, students often struggle to stay orga
 
 To ensure data privacy and provide personalized experiences, MindMosaic incorporates a secure login and sign-up system. Students can create their accounts with unique credentials, enabling them to save their progress. We have used Firebase for this purpose.
 
-![IMG1](https://github.com/zuhaakashif/Mind-Mosaic/assets/100795162/d68a1d18-04b8-4736-87a9-e9e49b6c1f37)
+![IMG1](https://github.com/zuhaakashif/Mind-Mosaic/assets/100795162/91670d2d-f3f4-40b5-94e2-566ae36844e7)
+
+![IMG2](https://github.com/zuhaakashif/Mind-Mosaic/assets/100795162/1d45ba29-938a-4133-9c0b-2d32db08298c)
 
 
-![IMG2](https://github.com/zuhaakashif/Mind-Mosaic/assets/100795162/d0a36db8-66c9-4f3e-a21c-9208268023eb)
+
 
 ### Flashcards
 
 The flashcard feature helps you prepare for future interviews. It comes with pre-defined questions about computer science topics. By using these flashcards, you can practice and improve your knowledge and skills in areas like algorithms, data structures, and problem-solving. Whether you're a student or a professional, these flashcards will boost your confidence and help you succeed in computer science interviews and land your dream job.
 
-![IMG7](https://github.com/zuhaakashif/Mind-Mosaic/assets/100795162/d5a248d0-438e-45fd-99aa-90cfd143471a)
+![IMG7](https://github.com/zuhaakashif/Mind-Mosaic/assets/100795162/f898815b-fbe3-4742-b357-554fafb865be)
 
 
 ### To-Do List
@@ -40,14 +42,16 @@ MindMosaic offers a comprehensive to-do list feature to help students prioritize
 
 Note-taking is a fundamental aspect of studying, and MindMosaic provides an intuitive and user-friendly interface for students to take digital notes. Users can create notebooks and organize notes based on subjects or topics.
 
-![IMG5](https://github.com/zuhaakashif/Mind-Mosaic/assets/100795162/ba540f35-5390-43b3-b983-97bb104a7923)
+
+![IMG5](https://github.com/zuhaakashif/Mind-Mosaic/assets/100795162/077e7d58-b0d1-472a-857c-8be7947f0926)
 
 
 ### Stopwatch
 
 Time management is critical for students, especially during exams or when working on timed assignments. MindMosaic includes a stopwatch feature that enables students to track their study or work sessions accurately. The stopwatch can be started, paused, and reset with ease, helping students measure their productivity and allocate time effectively.
 
-![IMG6](https://github.com/zuhaakashif/Mind-Mosaic/assets/100795162/e8f07db7-a805-4c93-9bea-b76880129aa7)
+![IMG6](https://github.com/zuhaakashif/Mind-Mosaic/assets/100795162/88704119-cb13-4d96-9d55-14e44ecc75d5)
+
 
 
 ### Snake Game
@@ -58,12 +62,14 @@ a brief diversion from academic tasks, promoting mental refreshment and
 reducing stress. It's a great way to recharge and maintain a balanced
 approach to learning.
 
-![IMG4](https://github.com/zuhaakashif/Mind-Mosaic/assets/100795162/54e177d7-d886-41a3-a851-1e2dff73a2b2)
+![IMG4](https://github.com/zuhaakashif/Mind-Mosaic/assets/100795162/8e608149-ce98-4975-998b-a70fa5eb891e)
+
 
 ### Calendar
 This app also provides a calendar to help students plan their activities and studies.
 
-![IMG3](https://github.com/zuhaakashif/Mind-Mosaic/assets/100795162/771d7dfc-747d-42e5-9cd6-271db2962763)
+![IMG3](https://github.com/zuhaakashif/Mind-Mosaic/assets/100795162/ea4e0549-a3a6-4833-8163-bd0b76ff5b01)
+
 
 
 ## Benefits
