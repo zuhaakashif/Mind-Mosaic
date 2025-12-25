@@ -19,7 +19,7 @@ Below are selected screenshots showcasing the AcuCare app’s user interface, ac
 
 <p align="center">
   <img src="https://github.com/zuhaakashif/Mind-Mosaic/assets/100795162/91670d2d-f3f4-40b5-94e2-566ae36844e7" width="220"/>
-  <img src="[screenshots/acucare-2.jpg](https://github.com/zuhaakashif/Mind-Mosaic/assets/100795162/1d45ba29-938a-4133-9c0b-2d32db08298c)" width="220"/>
+  <img src="https://github.com/zuhaakashif/Mind-Mosaic/assets/100795162/1d45ba29-938a-4133-9c0b-2d32db08298c" width="220"/>
 </p>
 
 ### Flashcards
