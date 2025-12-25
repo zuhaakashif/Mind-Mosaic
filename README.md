@@ -18,7 +18,7 @@ To ensure data privacy and provide personalized experiences, MindMosaic incorpor
 Below are selected screenshots showcasing the AcuCare app’s user interface, acne detection pipeline, and treatment recommendation workflow.
 
 <p align="center">
-  <img src="assets/100795162/91670d2d-f3f4-40b5-94e2-566ae36844e7" width="220"/>
+  <img src="https://github.com/zuhaakashif/Mind-Mosaic/assets/100795162/91670d2d-f3f4-40b5-94e2-566ae36844e7" width="220"/>
   <img src="screenshots/acucare-2.jpg" width="220"/>
   <img src="screenshots/acucare-3.jpg" width="220"/>
 </p>
