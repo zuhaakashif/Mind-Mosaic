@@ -15,6 +15,20 @@ In today's fast-paced academic environment, students often struggle to stay orga
 
 To ensure data privacy and provide personalized experiences, MindMosaic incorporates a secure login and sign-up system. Students can create their accounts with unique credentials, enabling them to save their progress. We have used Firebase for this purpose.
 
+Below are selected screenshots showcasing the AcuCare app’s user interface, acne detection pipeline, and treatment recommendation workflow.
+
+<p align="center">
+  <img src="assets/100795162/91670d2d-f3f4-40b5-94e2-566ae36844e7" width="220"/>
+  <img src="screenshots/acucare-2.jpg" width="220"/>
+  <img src="screenshots/acucare-3.jpg" width="220"/>
+</p>
+
+<p align="center">
+  <img src="screenshots/acucare-4.jpg" width="220"/>
+  <img src="screenshots/acucare-5.jpg" width="220"/>
+  <img src="screenshots/acucare-6.jpg" width="220"/>
+</p>
+
 ![IMG1](https://github.com/zuhaakashif/Mind-Mosaic/assets/100795162/91670d2d-f3f4-40b5-94e2-566ae36844e7)
 
 ![IMG2](https://github.com/zuhaakashif/Mind-Mosaic/assets/100795162/1d45ba29-938a-4133-9c0b-2d32db08298c)
