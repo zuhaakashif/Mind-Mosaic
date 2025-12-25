@@ -19,36 +19,25 @@ Below are selected screenshots showcasing the AcuCare app’s user interface, ac
 
 <p align="center">
   <img src="https://github.com/zuhaakashif/Mind-Mosaic/assets/100795162/91670d2d-f3f4-40b5-94e2-566ae36844e7" width="220"/>
-  <img src="screenshots/acucare-2.jpg" width="220"/>
-  <img src="screenshots/acucare-3.jpg" width="220"/>
+  <img src="[screenshots/acucare-2.jpg](https://github.com/zuhaakashif/Mind-Mosaic/assets/100795162/1d45ba29-938a-4133-9c0b-2d32db08298c)" width="220"/>
 </p>
-
-<p align="center">
-  <img src="screenshots/acucare-4.jpg" width="220"/>
-  <img src="screenshots/acucare-5.jpg" width="220"/>
-  <img src="screenshots/acucare-6.jpg" width="220"/>
-</p>
-
-![IMG1](https://github.com/zuhaakashif/Mind-Mosaic/assets/100795162/91670d2d-f3f4-40b5-94e2-566ae36844e7)
-
-![IMG2](https://github.com/zuhaakashif/Mind-Mosaic/assets/100795162/1d45ba29-938a-4133-9c0b-2d32db08298c)
-
-
-
 
 ### Flashcards
 
 The flashcard feature helps you prepare for future interviews. It comes with pre-defined questions about computer science topics. By using these flashcards, you can practice and improve your knowledge and skills in areas like algorithms, data structures, and problem-solving. Whether you're a student or a professional, these flashcards will boost your confidence and help you succeed in computer science interviews and land your dream job.
 
-![IMG7](https://github.com/zuhaakashif/Mind-Mosaic/assets/100795162/f898815b-fbe3-4742-b357-554fafb865be)
+<p align="center">
+  <img src="https://github.com/zuhaakashif/Mind-Mosaic/assets/100795162/f898815b-fbe3-4742-b357-554fafb865be" width="220"/>
+</p>
 
 
 ### To-Do List
 
 MindMosaic offers a comprehensive to-do list feature to help students prioritize their tasks and manage their academic responsibilities effectively. Users can create tasks, delete them, and also keep track of how many tasks they have completed.
 
-
-![IMG9](https://github.com/zuhaakashif/Mind-Mosaic/assets/100795162/048fd343-6c87-4f22-85a6-91ed45c4ffff)
+<p align="center">
+  <img src="https://github.com/zuhaakashif/Mind-Mosaic/assets/100795162/048fd343-6c87-4f22-85a6-91ed45c4ffff" width="220"/>
+</p>
 
 
 
@@ -56,16 +45,18 @@ MindMosaic offers a comprehensive to-do list feature to help students prioritize
 
 Note-taking is a fundamental aspect of studying, and MindMosaic provides an intuitive and user-friendly interface for students to take digital notes. Users can create notebooks and organize notes based on subjects or topics.
 
-
-![IMG5](https://github.com/zuhaakashif/Mind-Mosaic/assets/100795162/077e7d58-b0d1-472a-857c-8be7947f0926)
+<p align="center">
+  <img src="https://github.com/zuhaakashif/Mind-Mosaic/assets/100795162/077e7d58-b0d1-472a-857c-8be7947f0926" width="220"/>
+</p>
 
 
 ### Stopwatch
 
 Time management is critical for students, especially during exams or when working on timed assignments. MindMosaic includes a stopwatch feature that enables students to track their study or work sessions accurately. The stopwatch can be started, paused, and reset with ease, helping students measure their productivity and allocate time effectively.
 
-![IMG6](https://github.com/zuhaakashif/Mind-Mosaic/assets/100795162/88704119-cb13-4d96-9d55-14e44ecc75d5)
-
+<p align="center">
+  <img src="https://github.com/zuhaakashif/Mind-Mosaic/assets/100795162/88704119-cb13-4d96-9d55-14e44ecc75d5" width="220"/>
+</p>
 
 
 ### Snake Game
@@ -76,15 +67,17 @@ a brief diversion from academic tasks, promoting mental refreshment and
 reducing stress. It's a great way to recharge and maintain a balanced
 approach to learning.
 
-![IMG4](https://github.com/zuhaakashif/Mind-Mosaic/assets/100795162/8e608149-ce98-4975-998b-a70fa5eb891e)
+<p align="center">
+  <img src="https://github.com/zuhaakashif/Mind-Mosaic/assets/100795162/8e608149-ce98-4975-998b-a70fa5eb891e" width="220"/>
+</p>
 
 
 ### Calendar
 This app also provides a calendar to help students plan their activities and studies.
 
-![IMG3](https://github.com/zuhaakashif/Mind-Mosaic/assets/100795162/ea4e0549-a3a6-4833-8163-bd0b76ff5b01)
-
-
+<p align="center">
+  <img src="https://github.com/zuhaakashif/Mind-Mosaic/assets/100795162/ea4e0549-a3a6-4833-8163-bd0b76ff5b01" width="220"/>
+</p>
 
 ## Benefits
 
